@@ -1,0 +1,177 @@
+### Step 2A
+/c/Users/jessi
+
+
+### Step 2B
+cd /c/Users/jessi
+
+
+### Step 2C
+
+$ /c/Users/jessi/desktop/unit1-git-practice
+bash: /c/Users/jessi/desktop/unit1-git-practice: Is a directory
+
+### Step 2D
+
+$ pwd
+/c/Users/jessi
+
+
+### Step 2E
+$ ls
+
+
+### Step 2F
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{35679d10-5f41-11ec-835a-f4a47571eb83}.TM.blf
+ NTUSER.DAT{35679d10-5f41-11ec-835a-f4a47571eb83}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{35679d10-5f41-11ec-835a-f4a47571eb83}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+jessi@DESKTOP-L1KP8DB MINGW64 ~
+$ cd ~
+
+jessi@DESKTOP-L1KP8DB MINGW64 ~
+$ cd /c/Users/jessi
+
+jessi@DESKTOP-L1KP8DB MINGW64 ~
+$ /c/Users/jessi/desktop/unit1-git-practice
+bash: /c/Users/jessi/desktop/unit1-git-practice: Is a directory
+
+jessi@DESKTOP-L1KP8DB MINGW64 ~
+$ pwd
+/c/Users/jessi
+
+jessi@DESKTOP-L1KP8DB MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{35679d10-5f41-11ec-835a-f4a47571eb83}.TM.blf
+ NTUSER.DAT{35679d10-5f41-11ec-835a-f4a47571eb83}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{35679d10-5f41-11ec-835a-f4a47571eb83}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+### Step 2G
+
+
+### Step 2H
+
+
+### Step 2I
+
+
+### Step 2J
+
+
+### Step 2K
+
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
